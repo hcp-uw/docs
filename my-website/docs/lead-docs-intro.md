@@ -21,11 +21,11 @@ Above all lead teams are the Co-Chair role, which is a 2 person team that is res
 Here are the list of club lead teams in HCP (order not relevant)
 
 - **Co-Chairs**
-- **Education**
-- **Technology**
+- **Education Team**
+- **Technology Team**
 - **Finance Team**
 - **Club Project Guides**
-- **Communications**
+- **Communications Team**
 
 
 

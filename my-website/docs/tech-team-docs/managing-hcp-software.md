@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Managing HCP Software
+# Managing HCP Software [N][R][O]
 
 ***Quick Terminology***
 - [N] indicates that a task is "not-shared" means that not every Tech lead must do this task
