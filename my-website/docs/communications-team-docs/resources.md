@@ -46,4 +46,4 @@ Please update the Post Tracker when new posts ideas and templates arise.
   - How can we help you?
   - Thank the club/company!
 
-(Here's some old email templates we made a while back)[https://docs.google.com/document/d/1qJmnluHazoAJyez6dvowwPohOH1DdGRVsbABi6fw1xs/edit]
+[Here's some old email templates we made a while back](https://docs.google.com/document/d/1qJmnluHazoAJyez6dvowwPohOH1DdGRVsbABi6fw1xs/edit)
