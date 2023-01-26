@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Purpose & Role Qualifications!
+# Purpose & Role Qualifications
 
 ## Purpose of Education Lead
 
