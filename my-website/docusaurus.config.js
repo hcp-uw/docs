@@ -61,9 +61,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'lead-docs-intro',
+            docId: 'club-lead-docs/lead-docs-intro',
             position: 'left',
-            label: 'Club Lead Docs',
+            label: 'Leadership Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -81,7 +81,7 @@ const config = {
             items: [
               {
                 label: 'Leadership Docs',
-                to: '/docs/intro-to-hcp-leads',
+                to: 'docs/club-lead-docs/lead-docs-intro',
               },
             ],
           },
