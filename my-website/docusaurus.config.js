@@ -65,6 +65,12 @@ const config = {
             position: 'left',
             label: 'Leadership Docs',
           },
+          {
+            type: 'doc',
+            docId: 'project-team-docs/project-docs-intro',
+            position: 'left',
+            label: 'Project Team Documentation',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/nith2001/DocusaurusTesting',
