@@ -67,7 +67,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'project-team-docs/project-docs-intro',
+            docId: 'project-team-docs/project-team-docs-intro',
             position: 'left',
             label: 'Project Team Documentation',
           },
