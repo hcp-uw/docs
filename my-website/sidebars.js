@@ -5,7 +5,7 @@ const sidebars = {
       type: 'doc',
       id: 'club-lead-docs/lead-docs-intro',
       label: 'Introduction'
-    }, // TODO: we gotta figure out where the category page went
+    },
     {
       type: 'category',
       label: 'Co-Chair Docs',
