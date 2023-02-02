@@ -34,13 +34,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -61,15 +57,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'club-lead-docs/lead-docs-intro',
-            position: 'left',
-            label: 'Leadership Docs',
-          },
-          {
-            type: 'doc',
             docId: 'project-team-docs/project-docs-intro',
             position: 'left',
             label: 'Project Team Documentation',
+          },
+          {
+            type: 'doc',
+            docId: 'club-lead-docs/lead-docs-intro',
+            position: 'left',
+            label: 'Leadership Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
