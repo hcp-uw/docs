@@ -44,7 +44,7 @@ jobs:
       - name: Build
         run: yarn build
       - name: Setup Pages
-        uses: actions/configure-pages@v1
+        uses: actions/configure-pages@v3
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -53,3 +53,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+
+
+- name: Save state
+  run: echo "{name}={value}" >> $GITHUB_STATE
+
+- name: Set output
+  run: echo "{name}={value}" >> $GITHUB_OUTPUT
