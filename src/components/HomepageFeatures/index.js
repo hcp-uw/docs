@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Breaking "Needing Experience to Get Experience"',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We aim to break the circular logic of needing experience to get experience by
+        fostering a judgement-free, educational environment that prioritizes the learning experience.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Student-Driven Programming Projects',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We organize members into programming projects teams to provide an internship-like experience
+        for our participating club members.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Diversify Tech from the Ground-Up',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        No major/experience requirements! We provide software development opportunities to all
+        majors & backgrounds to lower the barrier to gaining CS experience and promote diversity in Tech.
       </>
     ),
   },
