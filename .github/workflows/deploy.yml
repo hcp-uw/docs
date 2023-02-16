@@ -39,8 +39,9 @@ jobs:
         with:
           node-version: 16.x
           cache: yarn
+          cache-dependency-path: my-website/yarn-lock.json
       - name: Install dependencies
-        run: cd my-website && yarn install --frozen-lockfile --non-interactive
+        run: yarn install --frozen-lockfile --non-interactive
       - name: Build
         run: yarn build
       - name: Setup Pages
