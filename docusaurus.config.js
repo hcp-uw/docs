@@ -66,13 +66,14 @@ const config = {
             docId: 'club-lead-docs/lead-docs-intro',
             position: 'left',
             label: 'Leadership Docs',
-          },
+          }/*
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/nith2001/DocusaurusTesting',
             label: 'GitHub',
             position: 'right',
           },
+          */
         ],
       },
       footer: {
@@ -84,6 +85,10 @@ const config = {
               {
                 label: 'Leadership Docs',
                 to: 'docs/club-lead-docs/lead-docs-intro',
+              },
+              {
+                label: 'Project Team Documentation',
+                to: 'docs/project-team-docs/project-docs-intro',
               },
             ],
           },
@@ -103,7 +108,7 @@ const config = {
                 href: 'https://www.linkedin.com/company/husky-coding-project/mycompany/?viewAsMember=true',
               },
             ],
-          },
+          },/*
           {
             title: 'More',
             items: [
@@ -112,7 +117,7 @@ const config = {
                 to: '/blog',
               }
             ],
-          },
+          },*/
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Husky Coding Project, Built with Docusaurus.`,
       },

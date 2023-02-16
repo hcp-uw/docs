@@ -5,14 +5,17 @@ hide_table_of_contents: true
 
 # About Us
 
+---
+
 ## Key Statements
 
-**Mission**: To create a tech internship-like environment that promotes the growth and development of our club members by providing team-based programming project experience and encouraging peer-to-peer learning.
+**<u>Mission</u>**: To create a tech internship-like environment that promotes the growth and development of our club members by providing team-based programming project experience and encouraging peer-to-peer learning.
 
-**Vision**: Providing the next generation of programmers & designers with the tools and experience to succeed in future tech careers.
+**<u>Vision</u>**: Providing the next generation of programmers & designers with the tools and experience to succeed in future tech careers.
 
-**Values**: Listen Loudly, Freedom to Fail, Turn Talk Into Action, Respect for all folx
+**<u>Values</u>**: Listen Loudly, Freedom to Fail, Turn Talk Into Action, Respect for all Folx
 
+---
 
 ## The Problems We Aim To Solve
 
@@ -27,6 +30,8 @@ We aim to break the never-ending circular logic of needing experience to get exp
 We do so by organizing members into teams that develop large-scale programming projects that simulate an internship-like environment through our club. As a result, our members can acquire the experiences they need to succeed in their future endeavors as a team.
 
 In addition, we foster a judgement-free, safe, and educational environment that prioritizes the learning experience over the stress of grades and school. We accept all members regardless of major or experience level in software development in addition to other protected categories.
+
+---
 
 ## What We Do
 
