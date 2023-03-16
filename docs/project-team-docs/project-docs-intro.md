@@ -15,7 +15,9 @@ The average student's programming project tends to be disorganized and involves 
 The following documentation will contain information on:
 
 - Project Team Guidelines and General Timeline
-- How to Document Your Codebase
+- Project Team Roles
+- Product Spec Template and Presentation Guidelines
+- Writing Codebase Documentation
 - Project Management Through Github
 - Other Programming Resources
 

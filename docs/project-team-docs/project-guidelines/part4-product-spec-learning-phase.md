@@ -14,7 +14,7 @@ This is an **extremely important phase of your project that should not be taken 
 
 **We do NOT encourage beginning project development until the entire spec has been completed, presented, and approved.** This is in order to provide your team with useful feedback and to help your team identify any potential gaps in your research or design for your team to fill in.
 
-Here’s the **[template](https://docs.google.com/document/d/169_JjLg3zMQTc8B1JKHPR8_eggTdrnz-hwBvqkTHm00/edit?usp=sharing)** to get started. This document highlights the requirements you need to meet with your technical spec and also has a template guide to follow. Please reference it closely and ask club leadership if you have any questions.
+Here’s the **[Google Docs template](https://docs.google.com/document/d/169_JjLg3zMQTc8B1JKHPR8_eggTdrnz-hwBvqkTHm00/edit?usp=sharing)** to get started. You can also navigate to `Resources/Project Spec Template` on this documentation website to find the spec template. This document highlights the requirements you need to meet with your technical spec and also has a template guide to follow. Please reference it closely and ask club leadership if you have any questions.
 
 Refer to your designated club lead guide for example specs to read. When you finish a rough draft of your spec, feel free to ask your club lead guide to give it a read-through and provide some feedback! We’re always happy to help and provide support to our project teams. **Once your team is done with your spec**, there will be a spec presentation day where your team will present your spec and get feedback on! Go to **Part 5** to see how this will work.
 
