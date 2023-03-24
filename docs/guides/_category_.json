@@ -1,0 +1,8 @@
+{
+  "label": "Technical Guides",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "The following will include guides/tutorials on various technical challenges project teams may face during developement."
+  }
+}

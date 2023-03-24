@@ -1,0 +1,8 @@
+{
+  "label": "Hosting a React-Node.js App",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "The following guide will walk you through the steps necessary steps in order to host your React and Node.js web application on Heroku."
+  }
+}
