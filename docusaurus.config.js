@@ -66,6 +66,12 @@ const config = {
             docId: 'club-lead-docs/lead-docs-intro',
             position: 'left',
             label: 'Leadership Docs',
+          },
+          {
+            type: 'doc',
+            docId: 'guides/guides-intro',
+            position: 'left',
+            label: 'Technical Guides',
           }/*
           {to: '/blog', label: 'Blog', position: 'left'},
           {
