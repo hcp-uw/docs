@@ -85,11 +85,11 @@ const config = {
             items: [
               {
                 label: 'Leadership Docs',
-                to: 'docs/club-lead-docs/lead-docs-intro',
+                to: 'club-lead-docs/lead-docs-intro',
               },
               {
                 label: 'Project Team Documentation',
-                to: 'docs/project-team-docs/project-docs-intro',
+                to: 'project-team-docs/project-docs-intro',
               },
             ],
           },
