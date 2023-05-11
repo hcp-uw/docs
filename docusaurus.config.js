@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Husky Coding Project',
   tagline: 'Let\'s Git Good',
-  url: 'https://husky-coding-project.github.io/',
+  url: 'https://hcp-uw.github.io/',
   baseUrl: '/hcp-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
