@@ -14,12 +14,12 @@ Contact your Co-Chairs for access.
 
 Here's are links to our social media;
 
-| Social Media | Links                                                                 |
-|--------------|-----------------------------------------------------------------------|
-| Instagram    | https://www.instagram.com/huskycodingproject/?igshid=YmMyMTA2M2Y%3D   |
-| Facebook     | https://www.facebook.com/people/Husky-Coding-Project/100087380841446/ |
-| LinkedIn     | https://www.linkedin.com/company/husky-coding-project/                |
-| Website      | https://husky-coding-project.web.app/home                             |
+| Social Media | Links                               |
+|--------------|-------------------------------------|
+| Instagram    | https://instagram.com/hcp.uw        |
+| Facebook     | https://facebook.com/hcp.uw         |
+| LinkedIn     | https://linkedin.com/company/hcp-uw |
+| Website      | https://hcp-uw.web.app              |
 
 ## Post Tracker/RSO Tracker
 
