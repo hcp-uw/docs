@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: 'Github Organization',
-                href: 'https://github.com/Husky-Coding-Project',
+                href: 'https://github.com/hcp-uw',
               },
               {
                 label: 'HuskyLink',
@@ -106,7 +106,7 @@ const config = {
               },
               {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/husky-coding-project/mycompany/?viewAsMember=true',
+                href: 'https://linkedin.com/company/hcp-uw',
               },
             ],
           },/*
