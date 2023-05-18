@@ -58,13 +58,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'project-team-docs/project-docs-intro',
+            docId: 'project-team/project-intro',
             position: 'left',
-            label: 'Project Team Documentation',
+            label: 'Project Team Docs',
           },
           {
             type: 'doc',
-            docId: 'club-lead-docs/lead-docs-intro',
+            docId: 'club-lead/lead-intro',
             position: 'left',
             label: 'Leadership Docs',
           }/*
@@ -85,11 +85,11 @@ const config = {
             items: [
               {
                 label: 'Leadership Docs',
-                to: 'club-lead-docs/lead-docs-intro',
+                to: 'club-lead/lead-intro',
               },
               {
-                label: 'Project Team Documentation',
-                to: 'project-team-docs/project-docs-intro',
+                label: 'Project Team Docs',
+                to: 'project-team/project-intro',
               },
             ],
           },
