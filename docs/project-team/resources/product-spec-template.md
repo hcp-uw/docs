@@ -8,7 +8,7 @@ sidebar_position: 2
 
 There are two reasons why we require new projects to create a specification. First, to ensure that every project member has the same vision for the project. Second, it motivates project teams to create a plan about how to tackle the project without the complication of the actual code. **Describe the “what” of the project, not the “how”!**
 
-**Note**: Here’s the [Google Doc template](https://docs.google.com/document/d/169_JjLg3zMQTc8B1JKHPR8_eggTdrnz-hwBvqkTHm00/edit?usp=sharing) if you want it
+**Note**: Here’s the [Google Doc template]([https://docs.google.com/document/d/169_JjLg3zMQTc8B1JKHPR8_eggTdrnz-hwBvqkTHm00/edit?usp=sharing](https://docs.google.com/document/d/1q9trXkLShXKabYpFxLDtPcdL_WYOwwfW/edit#heading=h.gjdgxs)) if you want it
 
 ## Product Specification Requirements
 
