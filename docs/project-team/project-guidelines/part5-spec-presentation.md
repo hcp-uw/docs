@@ -11,16 +11,16 @@ You will give a ~7 minute high-level presentation about your project. During tha
 ## Presentation Format
 **You do not need to make a presentation slideshow! Although you can if you want to. At the very least, you need to use your Spec Doc and Figma as visuals.**
 
-Every spec presentation (not spec) needs to meet the following:
+Every spec presentation (not spec) needs to meet the following [requirements](https://docs.google.com/document/d/1JlSF141HSTPuPr4W_OyjVYOkEgcpTRkD/edit#heading=h.gjdgxs):
 
 - Duration: 5-7 minutes
 - Verbalize the following while showing your spec:
-  - A concise and strong overview of the product
+  - A concise and strong overview of the product.
   - Explain what your project is trying to achieve and/or solve.
-  - State the minimum viable product features of your project
+  - State the minimum viable product features of your project.
   - Demonstrate how your MVP features will look and behave with a Figma prototype or design mockup, briefly walk us through it!
-  - Explain how these features will be developed. Including information on your tech stack and how each part of the stack will support these features
-  - Show questions that the teams still need to answer or figure out
+  - Explain how these features will be developed. Including information on your tech stack and how each part of the stack will support these features.
+  - List any unanswered questions!
 
 
 ## How to Get the Most Out of Presentations
