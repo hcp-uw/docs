@@ -24,7 +24,7 @@ Here are the list of club lead teams in HCP (order not relevant)
 - **Education Team**
 - **Technology Team**
 - **Finance Team**
-- **Club Project Guides**
+- **Onboarding Team**
 - **Communications Team**
 
 

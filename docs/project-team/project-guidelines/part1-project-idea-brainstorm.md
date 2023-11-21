@@ -30,4 +30,4 @@ Here are some tips that will help your team to come up with a great idea:
 
 6. Remember you can always come back to this stage if you find the idea not feasible or for any other reasons in later stages. So don’t overthink during this stage and start doing some quick research will surely help.
 
-7. **As a last resort**, if you want inspiration, look through the [following document](https://docs.google.com/document/d/1kVQcfqrhnvXBo7T0UzKJojynL0bS6csJtYVYePaxlcw/edit?usp=sharing) which has various kinds of project ideas and short descriptions to get you started thinking.
+7. **As a last resort**, if you want inspiration, look through the [following document](https://docs.google.com/spreadsheets/d/1VFRMK_imfMlQB973lEn-LPQDda0oSijn/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true) which has various kinds of project ideas and short descriptions to get you started thinking.

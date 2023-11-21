@@ -64,10 +64,17 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'club-lead/lead-intro',
+            docId: 'club-leadership/lead-intro',
             position: 'left',
-            label: 'Leadership Docs',
-          }/*
+            label: 'Club Leadership Docs',
+          },
+          {
+            type: 'doc',
+            docId: 'tech/tech-intro',
+            position: 'left',
+            label: 'Tech Resources',
+          },
+          /*
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/nith2001/DocusaurusTesting',
@@ -84,12 +91,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Leadership Docs',
-                to: 'club-lead/lead-intro',
+                label: 'Club Leadership Docs',
+                to: 'club-leadership/lead-intro',
               },
               {
                 label: 'Project Team Docs',
                 to: 'project-team/project-intro',
+              },
+              {
+                label: 'Tech Resources',
+                to: 'tech/tech-intro',
               },
             ],
           },
@@ -101,8 +112,8 @@ const config = {
                 href: 'https://github.com/hcp-uw',
               },
               {
-                label: 'HuskyLink',
-                href: 'https://huskylink.washington.edu/organization/hcp',
+                label: 'Club Website',
+                href: 'https://hcp-uw.vercel.app',
               },
               {
                 label: 'LinkedIn',

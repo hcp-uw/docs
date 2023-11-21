@@ -10,6 +10,7 @@ sidebar_position: 8
 In order to make progress on your project, we need to make sure each team member has the opportunity to participate! Along with that, it’s important to break your project tasks down into manageable chunks that 1-2 people in your team can each take on. We recommend using the Github Issues tab (and the labels feature) in your GitHub repository to organize/delegate tasks to fellow team members.
 
 [See this link for more details about Issues on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+
 [See this link for more details about Labels on GitHub](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
 Here’s a brief summary of how to approach issue creation:

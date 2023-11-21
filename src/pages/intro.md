@@ -7,6 +7,12 @@ hide_table_of_contents: true
 
 ---
 
+## Visit our Club Website!
+
+Just go to [https://hcp-uw.vercel.app](https://hcp-uw.vercel.app)
+
+---
+
 ## Key Statements
 
 **<u>Mission</u>**: To create a tech internship-like environment that promotes the growth and development of our club members by providing team-based programming project experience and encouraging peer-to-peer learning.

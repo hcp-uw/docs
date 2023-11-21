@@ -9,6 +9,7 @@ Now that you’ve fleshed out the design of your project, it’s time to set up 
     - The name of your project
     - A list of GitHub usernames for every member of the team
     - The GitHub username of your project manager/leader
+    - A template repo (if you want to start from one of our curated templates)
 
 2. **The Tech Team will create both a public GitHub repository and a GitHub Team for your project. The repository will have the following branch protection on the main branch.**
     - No commit can be made to the **main** branch directly
@@ -23,4 +24,4 @@ Now that you’ve fleshed out the design of your project, it’s time to set up 
     - Create a pull request that merges changes from your branch to the main branch
     - Have at least 1 team member leave an approving review of your pull request
     - Click the merge button at the bottom of the pull request
-4. **Just keep coding and don’t hesitate to reach out to the Tech Team with any questions or if you need some guidance with Git.**
+4. **Just keep coding and don’t hesitate to reach out to the Tech Team with any questions or if you need some guidance. We have experts in every area of development!**
