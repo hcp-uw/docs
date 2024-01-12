@@ -1,0 +1,8 @@
+{
+  "label": "Information",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "The following documentation contains relevant technical information that might help you while developing your project."
+  }
+}
