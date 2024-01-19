@@ -30,9 +30,13 @@ sudo apt install python3.10
 
 or build directly from source [[here]](https://www.python.org/downloads/source/)
 
+### Copying Code
+
+Now that we have Python setup, we should access [this](https://github.com/karpathy/ng-video-lecture/tree/master) github repository from Andrej Karpathy to get all the necessary code.
+
 ### Setting up a virtual environment
 
-After you have your python installed, the next step is to make a virtual environment. First, create a new directory where you want your project to be. After creating the directory, open your ide of choice from the directory. We use virtual environments to make sure there are no conflicts between package versions. If this is the only python version you have installed, you can just do
+After you have your python installed and repository cloned, the next step is to make a virtual environment. Inside the directory you downloaded, open your ide of choice from the directory. We use virtual environments to make sure there are no conflicts between package versions. If this is the only python version you have installed, you can just do
 
 ```bash
 python3 -m venv venv
@@ -80,14 +84,128 @@ To exit the virtual environment, simply type ```deactivate``` in the termianl or
 source venv/bin/deactivate
 ```
 
-Now that we have our environment setup, we should download the required packages for this demonstration.
+Now that we have our environment setup, we should download the required packages for this demonstration. This part will depend on if you have a dedicated GPU that supports CUDA or not. Go to this [website](https://pytorch.org/) and scroll down until you see the ```install pytorch``` section. Select your options and copy and paste the output inside your virtual environment. This will download the PyTorch package and all the required dependencies.
 
-```bash
-pip install torch
+## Training
+
+To finally start training, go to the ```bigram.py``` file and for our first run make sure to lower the ```max_iters``` parameter from the given 3,000 down to 2,000 for faster results. As you can see from the results, after training for a bit, the model outputs its results. You can mess with the parameters to get better results and you can see the loss go down as the iteration number increases.
+
+### Saving Model
+
+For bigger models you want to train multiple times or cannot train in a single session, it is important to save your work so that later on, you can load the model and start training again.
+
+Pytorch streamlines the process of saving a model by using checkpoints.
+
+```py
+import torch
+
+checkpoint = {
+    'iter': iter,
+    'model_state_dict': m.state_dict(),
+    'optimizer_state_dict': optimizer.state_dict(),
+    'loss': loss
+    #... other parameters you want to keep
+}
+
+checkpoint_path = #The path of the checkpoint
+
+torch.save(checkpoint, checkpoint_path)
 ```
 
-This will download the PyTorch package and all the required dependencies.
+Loading the model is also straightforward
 
-### Misc setup
+```py
+import torch
 
-There are couple more things we should do before we start training, namely we have to get the dataset and write the training code! Thankfully, Andrej Karpathy has already done both. Download [[this]](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) text file and rename the downloaded file as ```input.txt```.
+# Load the checkpoint and create a empty model
+loaded_checkpoint = torch.load(checkpoint_path)
+model = BigramLanguageModel()
+
+# Basic setup
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+m = model.to(device)
+
+# Load the model parameters from checkpoint
+m.load_state_dict(loaded_checkpoint['model_state_dict'])
+
+# Create basic optimizer and load from checkpoint
+optimizer = torch.optim.AdamW(m.parameters())
+optimizer.load_state_dict(loaded_checkpoint['optimizer_state_dict'])
+
+# Get vales
+iter = loaded_checkpoint['iter']
+loss = loaded_checkpoint['loss']
+
+# Testing to see if model was correctly loaded
+print(iter)
+print(loss)
+
+context = torch.zeros((1, 1), dtype=torch.long, device=device)
+print(decode(m.generate(context, max_new_tokens=2000)[0].tolist()))
+```
+
+As you can see saving and loading a model allows you to maintain progess and to train bigger models over time.
+
+To incorporate this into the nanoGPT training model we are using would look something like this,
+
+#### Before
+
+```py
+...
+for iter in range(max_iters):
+
+    # every once in a while evaluate the loss on train and val sets
+    if iter % eval_interval == 0 or iter == max_iters - 1:
+        losses = estimate_loss()
+        print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+
+    # sample a batch of data
+    xb, yb = get_batch('train')
+
+    # evaluate the loss
+    logits, loss = model(xb, yb)
+    optimizer.zero_grad(set_to_none=True)
+    loss.backward()
+    optimizer.step()
+
+# generate from the model
+context = torch.zeros((1, 1), dtype=torch.long, device=device)
+print(decode(m.generate(context, max_new_tokens=2000)[0].tolist()))
+```
+
+#### After
+
+```py
+...
+checkpoint_path = # The path of your checkpoint
+
+for iter in range(max_iters):
+
+    # save a checkpoint every 100 iteration or if we are at the last iteration
+    if iter % 1000 == 0 or iter == max_iters - 1:
+      checkpoint = {
+        'iter': iter,
+        'model_state_dict': m.state_dict(),
+        'optimizer_state_dict': optimizer.state_dict(),
+        'loss': loss
+    }
+      torch.save(checkpoint, checkpoint_path)
+
+    # every once in a while evaluate the loss on train and val sets
+    if iter % eval_interval == 0 or iter == max_iters - 1:
+        losses = estimate_loss()
+        print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+
+    # sample a batch of data
+    xb, yb = get_batch('train')
+
+    # evaluate the loss
+    logits, loss = model(xb, yb)
+    optimizer.zero_grad(set_to_none=True)
+    loss.backward()
+    optimizer.step()
+
+# generate from the model
+context = torch.zeros((1, 1), dtype=torch.long, device=device)
+print(decode(m.generate(context, max_new_tokens=2000)[0].tolist()))
+```
