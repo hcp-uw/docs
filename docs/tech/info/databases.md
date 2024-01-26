@@ -85,6 +85,9 @@ PlanetScale is a robust, scalable database-as-a-service on Kubernetes. It provid
 
 Neon is a serverless, fully managed PostgreSQL service with modern developer-friendly features such as branching, bottomless storage, and on-demand auto-scaling. It optimizes developer productivity along with cost-effectiveness by only charging for its actual use.
 
+#### Cloudflare D1
+
+Cloudflare Durable Objects (D1) is a unique distributed database service that leverages SQLite, a serverless, self-contained database system. The standout feature of D1 lies in its global distribution all the way to edge servers, making it an edge-native database. This edge-oriented distribution offers lower latencies by bringing data closer to users, resulting in quick data retrieval and optimal performance.
 
 ## Database Selection Guidance
 
