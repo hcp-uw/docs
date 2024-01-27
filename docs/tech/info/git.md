@@ -28,8 +28,8 @@ The basic workflow of Git can be summed up in the following graphic:
 | `git status` | Shows the current status of your local repository. You will use this to see which files have been changed, added, or deleted |
 | `git log` | Shows the commit history of your local repository. You will use this to see the commit messages and commit hashes of your commits |
 | `git branch` | Shows the current branch you are on. You will use this to see which branch you are working on |
-| `git checkout <branch>` | Switches to the specified branch. You will use this to switch between branches |
-| `git checkout -b <branch>` | Creates a new branch and switches to it. You will use this to create a new branch |
+| `git switch <branch>` | Switches to the specified branch. You will use this to switch between branches |
+| `git switch -c <branch>` | Creates a new branch and switches to it. You will use this to create a new branch |
 | `git reset --hard <commit>` | Resets the repository to the specified commit. You will use this to undo changes to your local repository |
 | `git reset --hard origin/<branch>` | Resets the repository to the latest commit on the specified branch. You will use this to undo changes to your local repository |
 | `git reset --hard HEAD~<number>` | Resets the repository to the specified number of commits ago. You will use this to undo changes to your local repository |
