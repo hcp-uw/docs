@@ -63,29 +63,43 @@ Database services are platforms which provide database functionality along with 
 
 #### Supabase (PostgreSQL)
 
+Has a free tier.
+
 Supabase is an open-source Firebase alternative, providing developers with features like authentication, authorization, real-time database and restful APIs and more. It is built atop PostgreSQL and boasts of its rapid integration and simplicity to use. It is intended to be an all-in-one backend service for your application.
 
 #### Firebase (NoSQL)
+
+Has a free tier.
 
 Firebase, developed by Google, is a popular Backend-as-a-Service (BaaS) that allows developers to focus on what makes their applications unique. Its wide array of services, including hosting, real-time databases, authentication, analytics, and more, enable developers to quickly get their applications up and running.
 
 #### CockroachDB (NewSQL)
 
+Has a free tier.
+
 CockroachDB follows the footsteps of Google Spanner in providing a globally-distributed transactional database. It is a cloud-native SQL database for building global, scalable cloud services that survive disasters.
 
 #### TiDB (NewSQL)
+
+Has a free tier.
 
 TiDB is an open-source, MySQL-compatible, NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. Accordingly, TiDB provides high performance and horizontal scalability.
 
 #### PlanetScale (NewSQL)
 
+Has a free tier.
+
 PlanetScale is a robust, scalable database-as-a-service on Kubernetes. It provides a MySQL-compatible, transactionally consistent database that scales as required, making it a valuable tool for businesses looking to process large amounts of data without sacrificing reliability.
 
 #### Neon (PostgreSQL)
 
+Has a free tier.
+
 Neon is a serverless, fully managed PostgreSQL service with modern developer-friendly features such as branching, bottomless storage, and on-demand auto-scaling. It optimizes developer productivity along with cost-effectiveness by only charging for its actual use.
 
 #### Cloudflare D1 (SQLite)
+
+Has a free tier.
 
 Cloudflare Durable Objects (D1) is a unique distributed database service that leverages SQLite, a serverless, self-contained database system. The standout feature of D1 lies in its global distribution all the way to edge servers, making it an edge-native database. This edge-oriented distribution offers lower latencies by bringing data closer to users, resulting in quick data retrieval and optimal performance.
 
