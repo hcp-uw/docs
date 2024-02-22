@@ -9,7 +9,7 @@ const config = {
   title: 'Husky Coding Project',
   tagline: 'Let\'s Git Good',
   url: 'https://hcp-uw.github.io/',
-  baseUrl: '/docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
