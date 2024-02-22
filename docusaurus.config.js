@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Husky Coding Project',
   tagline: 'Let\'s Git Good',
-  url: 'https://hcp-uw.github.io/',
+  url: 'https://docs.hcp-uw.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,15 +58,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'project-team/project-intro',
-            position: 'left',
-            label: 'Project Team Docs',
-          },
-          {
-            type: 'doc',
             docId: 'club-leadership/lead-intro',
             position: 'left',
             label: 'Club Leadership Docs',
+          },
+          {
+            type: 'doc',
+            docId: 'project-team/project-intro',
+            position: 'left',
+            label: 'Project Team Docs',
           },
           {
             type: 'doc',
@@ -74,14 +74,14 @@ const config = {
             position: 'left',
             label: 'Tech Resources',
           },
-          /*
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/nith2001/DocusaurusTesting',
-            label: 'GitHub',
-            position: 'right',
-          },
-          */
+
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   href: 'https://github.com/nith2001/DocusaurusTesting',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
+
         ],
       },
       footer: {
@@ -113,7 +113,7 @@ const config = {
               },
               {
                 label: 'Club Website',
-                href: 'https://hcp-uw.vercel.app',
+                href: 'https://hcp-uw.com',
               },
               {
                 label: 'LinkedIn',
