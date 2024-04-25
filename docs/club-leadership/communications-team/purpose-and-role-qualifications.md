@@ -21,10 +21,10 @@ It is required that communication leads know how to utilize Canva templates or o
 ### Soft Skills
 Communicate about scheduling posting dates/times with other communication leads. A lot of the content in social media should be looked over by other communication leads before being released to the public. Creativity in design and captions for social media are preferred.
 
-## Availability
+### Availability
 Communication leads should be available/attend every general meeting for the entire duration, with exceptions for extenuating circumstances (sick, emergency, etc). Outside of general meetings, Communication leads should have the time flexibility to work on busier event posting weeks.
 
-## Time Commitment
+### Time Commitment
 
 Time commitment of Communications leads is on average 2 hours per week, possibly 3 hours for fall quarter major outreach (this includes general meetings and 1-on-1 attendance). Time commitment varies throughout the quarter, but below is a sample average breakdown of weekly time commitment:
 
