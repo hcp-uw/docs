@@ -23,11 +23,11 @@ The purpose of an HCP Finance lead is primarily responsible for outreaching to e
 - Being flexible in managing on-going company partnerships
 - Strong time-management skills (ex: ability to coordinate and schedule meetings with other team members or partners/sponsors)
 
-## Availability
+### Availability
 
 Finance leads should be available/attend every general meeting for the entire duration (unless not assigned to a project team), with exceptions for extenuating circumstances (sick, emergency, etc). Outside of general meetings, finance leads should have the time flexibility to respond to messages and meet with finances leads and/or company partners of the club.
 
-## Time Commitment
+### Time Commitment
 
 Time commitment of finance leads is on average 2-3 hours per week (this includes general meetings and 1-on-1 attendance). Time commitment varies throughout the quarter, but below is a sample average breakdown of weekly time commitment:
 

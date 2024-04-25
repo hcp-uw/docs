@@ -9,7 +9,7 @@ hide_table_of_contents: true
 
 ## Visit our Club Website!
 
-Just go to [https://hcp-uw.vercel.app](https://hcp-uw.vercel.app)
+Just go to [https://hcp-uw.com/](https://hcp-uw.com/)
 
 ---
 
