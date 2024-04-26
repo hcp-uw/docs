@@ -22,6 +22,10 @@ Leads need to be quick learners and have the ability to quickly learn and be abl
 
 Prior knowledge of the topic is not required, however the lead needs to be willing to learn the topic individually to sufficiently teach in front of 20-30 people. Public speaking skills are valuable in this case. Maintaining communication within a team, and contributing ideas brainstorming/presentation content are all valuable to consistent workshop planning.
 
+### Availability
+
+Education leads are expected to attend general meetings as needed to host mini workshops or other educational material, with exceptions for extenuating circumstances (sick, emergency, etc). Outside of general meetings, education leads should have the time flexibility to respond to messages, meet with other education leads, and host workshops (including dry runs beforehand and retros afterwards).
+
 ### Time Commitment
 
 The time commitment for the education team lead varies between weeks, and generally more time and effort is needed near the workshop, though it is optimal to plan ahead and spread tasks out. On average, the time commitment is 3-4 hours per week with the following breakdown:
