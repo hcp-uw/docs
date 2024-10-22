@@ -7,7 +7,7 @@ sidebar_position: 4
 ### Why create an informal pitch?
 Preparing for an informal pitch allows the team to gather their thoughts together and be able to start building up the foundations of their project plan. It will also allow the team to agree on what the project may turn out to be in unison rather than by oneself. This is an **informal and private pitch** to your club lead guide, so feel free to have a bit of fun! Keep it around 5-7 minutes tops, and please answer the following questions using the Pitch template below:
 
-[The Pitch Template](https://docs.google.com/presentation/d/1oBujKERNlyLgHpNRK-nHP50LfgEN7iqkuSpGtgKjIsE/edit?usp=sharing)
+[The Pitch Template](https://docs.google.com/presentation/d/1c7TFfePsd5rGWdF25vzxAV8bnQp77xtv4BxDcwRIPi0/edit?usp=sharing)
 
 ### Include the following in your pitch:
 - What is your product? Explain what you think your MVP (minimum viable product) is, what are the minimal features and requirements you want to achieve?
