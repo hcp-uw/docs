@@ -14,7 +14,7 @@ We've created templates so teams can get up-and-running quicker.
 
 ### React
 
-React is a popular JavaScript library for building user interfaces, particularly single-page applications where UI updates occur frequently. React uses a declarative syntax, allowing developers to describe how the UI should look based on the application's state. React applications are typically composed of components, each managing its state and properties, enabling a modular and efficient approach to building interactive web applications. Additionally, React can be bundled and combined with other libraries and technologies, making it a versatile choice for frontend development.
+React is a popular JavaScript library for building interactive user interfaces, particularly single-page applications where UI updates occur frequently. React uses a declarative syntax, allowing developers to describe how the UI should look based on the application's state. React applications are typically composed of components, each managing its state and properties, enabling a modular and efficient approach to building interactive web applications. Additionally, React can be bundled and combined with other libraries and technologies, making it a versatile choice for frontend development.
 
 ### React Native
 
