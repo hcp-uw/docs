@@ -2,7 +2,7 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Here's the website: https://hcp-uw.github.io/hcp-documentation/
+Here's the website: [https://hcp-uw.github.io/hcp-documentation/](https://docs.hcp-uw.com/)
 
 ### Installation
 
