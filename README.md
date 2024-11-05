@@ -32,6 +32,8 @@ This command generates static content into the `build` directory and can be serv
 Our docs are deployed through [vercel](https://vercel.com/husky-coding-projects-projects/docs/deployments) automatically from the `vercel_deploy` branch. Just push changes to `main`, and then merge `main` into `vercel_deploy` to deploy the changes.
 
 ```
+=======
+```bash
 git checkout main
 git pull
 git add <files>
