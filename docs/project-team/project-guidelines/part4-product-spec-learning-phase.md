@@ -14,7 +14,7 @@ This is an **extremely important phase of your project that should not be taken 
 
 **We do NOT encourage beginning project development until the entire spec has been completed, presented, and approved.** This is in order to provide your team with useful feedback and to help your team identify any potential gaps in your research or design for your team to fill in.
 
-There are two different technical design docs/product spec templates we provide to you. Your team can discuss which spec would be ideal for your learning and preparation, but we recommend that level 1 teams use this **[Product Technical Spec Template](https://docs.google.com/document/d/1q9trXkLShXKabYpFxLDtPcdL_WYOwwfW/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)**, and that levels 2/3 use this **[Technical Design Doc Template](https://docs.google.com/document/d/1E9T0GCSYztEdXjgMYKJ06Pnkg4aySOzkGxQaabr3UbY/edit?usp=sharing)**. The only difference between the two is that the Technical Design Doc goes into more detail within your tech stack (High-level architecture, Databases, Models, Endpoints, Status Codes, etc.), so it may help your team answer more of the technical questions before you implement your project. It may be helpful to choose between one or another depending on the underlying knowledge between your teammates. Ask your club lead guide if you need guidance in choosing, or need example specs to read!
+There are two different technical design docs/product spec templates we provide to you. Your team can discuss which spec would be ideal for your learning and preparation, but we recommend that level 1 teams use this **[Product Technical Spec Template](https://docs.google.com/document/d/1q9trXkLShXKabYpFxLDtPcdL_WYOwwfW/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)**, and that levels 2/3 use this **[Technical Design Doc Template](https://docs.google.com/document/d/1E9T0GCSYztEdXjgMYKJ06Pnkg4aySOzkGxQaabr3UbY/edit?usp=sharing)**. The only difference between the two is that the Technical Design Doc goes into more detail within your tech stack (High-level architecture, Databases, Models, Endpoints, Status Codes, etc.), so it may help your team answer more of the technical questions before you start implementing your project. It may be helpful to choose between one or another depending on the underlying knowledge between your teammates. Ask your club lead guide if you need guidance in choosing, or need example specs to read!
 
 Here’s the **[Google Docs template](https://docs.google.com/document/d/1q9trXkLShXKabYpFxLDtPcdL_WYOwwfW/edit?usp=sharing&ouid=104753064155446271905&rtpof=true&sd=true)** to get started. You can also navigate to `Resources/Project Spec Template` on this documentation website to find the spec template. This document highlights the requirements you need to meet with your technical spec and also has a template guide to follow. Please reference it closely and ask club leadership if you have any questions.
 
@@ -32,8 +32,9 @@ There is no exact order where the learning phase fits into this timeline, but we
 
 ## Examples!
 
-The following are links to some great examples of project specs. Feel free to use their structure and style as a place to start, but try to make it your own!
+The following are links to some great examples of design documents/project specs. Feel free to use their structure and style as a place to start, but try to make it your own!
 
-- [AlgoViz](https://docs.google.com/document/d/1aPI6hMQnUmd4xSB1iHznqPPwf6O-75pQ/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
-- [Syntext](https://docs.google.com/document/d/1nocWKKrvc7k4Md05yd3QKPVLG9CObYTt/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
-- [UW BeReal](https://docs.google.com/document/d/1KfsGkbPJdpqmdq-rVXRLRTjEGFZ4OJTN/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
+- [avenuDub Design Doc](https://docs.google.com/document/d/1VDFrWv26m9BEV7bMHy2fGVe5oLb3mJnKihaZSlDsIXQ/edit?usp=sharing)
+- [AlgoViz Product Spec](https://docs.google.com/document/d/1aPI6hMQnUmd4xSB1iHznqPPwf6O-75pQ/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
+- [Syntext Product Spec](https://docs.google.com/document/d/1nocWKKrvc7k4Md05yd3QKPVLG9CObYTt/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
+- [UW BeReal Product Spec](https://docs.google.com/document/d/1KfsGkbPJdpqmdq-rVXRLRTjEGFZ4OJTN/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)

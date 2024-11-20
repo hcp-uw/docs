@@ -36,6 +36,7 @@ Our docs are deployed through [vercel](https://vercel.com/husky-coding-projects-
 ```bash
 git checkout main
 git pull
+yarn build
 git add <files>
 git commit -m "message"
 git push origin main
