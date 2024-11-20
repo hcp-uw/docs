@@ -30,8 +30,9 @@ There is no exact order where the learning phase fits into this timeline, but we
 
 ## Examples!
 
-The following are links to some great examples of project specs. Feel free to use their structure and style as a place to start, but try to make it your own!
+The following are links to some great examples of design documents/project specs. Feel free to use their structure and style as a place to start, but try to make it your own!
 
-- [AlgoViz](https://docs.google.com/document/d/1aPI6hMQnUmd4xSB1iHznqPPwf6O-75pQ/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
-- [Syntext](https://docs.google.com/document/d/1nocWKKrvc7k4Md05yd3QKPVLG9CObYTt/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
-- [UW BeReal](https://docs.google.com/document/d/1KfsGkbPJdpqmdq-rVXRLRTjEGFZ4OJTN/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
+- [avenuDub Design Doc](https://docs.google.com/document/d/1VDFrWv26m9BEV7bMHy2fGVe5oLb3mJnKihaZSlDsIXQ/edit?usp=sharing)
+- [AlgoViz Product Spec](https://docs.google.com/document/d/1aPI6hMQnUmd4xSB1iHznqPPwf6O-75pQ/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
+- [Syntext Product Spec](https://docs.google.com/document/d/1nocWKKrvc7k4Md05yd3QKPVLG9CObYTt/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
+- [UW BeReal Product Spec](https://docs.google.com/document/d/1KfsGkbPJdpqmdq-rVXRLRTjEGFZ4OJTN/edit?usp=sharing&ouid=110339665080062140802&rtpof=true&sd=true)
