@@ -5,9 +5,9 @@ sidebar_position: 9
 
 # Part 8: Development Phase
 
-[Here’s our workflow guide on how to properly contribute code to your project](https://hcp-uw.github.io/docs/project-team/resources/software-dev-process)
+[Here’s our workflow guide on how to properly contribute code to your project](https://docs.google.com/document/d/1-1IKZX9B8mwkluZtVPNfVJC33fpxHaLa/edit#heading=h.gjdgxs)
 
-[Here’s our guide on how to document your codebase](https://hcp-uw.github.io/docs/project-team/resources/codebase-documentation)
+[Here’s our guide on how to document your codebase](https://docs.google.com/document/d/1rC1nQWuzhRd5JnW9bAfNjizHnkHV533A/edit#heading=h.gjdgxs)
 
 Again, if you spot mistakes or believe improvements can be made, please notify your club lead guide! We are humans as well, so we are more than happy to support that.
 
